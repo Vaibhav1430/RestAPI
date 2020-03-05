@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="18398" started-at="2020-01-24T13:17:43Z" finished-at="2020-01-24T13:18:02Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="18398" started-at="2020-01-24T13:17:43Z" finished-at="2020-01-24T13:18:02Z">
+      <class name="com.jbk.RestAPI.RestApiTestNG">
+        <test-method status="PASS" signature="CheckCityInJsonResponse()[pri:0, instance:com.jbk.RestAPI.RestApiTestNG@32464a14]" name="CheckCityInJsonResponse" duration-ms="9576" started-at="2020-01-24T13:17:43Z" finished-at="2020-01-24T13:17:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CheckCityInJsonResponse -->
+        <test-method status="PASS" signature="CheckCityInJsonResponseJson()[pri:0, instance:com.jbk.RestAPI.RestApiTestNG@32464a14]" name="CheckCityInJsonResponseJson" duration-ms="2004" started-at="2020-01-24T13:17:53Z" finished-at="2020-01-24T13:17:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CheckCityInJsonResponseJson -->
+        <test-method status="PASS" signature="CheckWeatherDetails()[pri:0, instance:com.jbk.RestAPI.RestApiTestNG@32464a14]" name="CheckWeatherDetails" duration-ms="5087" started-at="2020-01-24T13:17:55Z" finished-at="2020-01-24T13:18:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CheckWeatherDetails -->
+        <test-method status="PASS" signature="CheckWeatherDetailsInvalidCity()[pri:0, instance:com.jbk.RestAPI.RestApiTestNG@32464a14]" name="CheckWeatherDetailsInvalidCity" duration-ms="576" started-at="2020-01-24T13:18:00Z" finished-at="2020-01-24T13:18:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CheckWeatherDetailsInvalidCity -->
+        <test-method status="PASS" signature="CheckWeatherDetailsStatus()[pri:0, instance:com.jbk.RestAPI.RestApiTestNG@32464a14]" name="CheckWeatherDetailsStatus" duration-ms="571" started-at="2020-01-24T13:18:01Z" finished-at="2020-01-24T13:18:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CheckWeatherDetailsStatus -->
+        <test-method status="PASS" signature="CheckWeatherMessageBody()[pri:0, instance:com.jbk.RestAPI.RestApiTestNG@32464a14]" name="CheckWeatherMessageBody" duration-ms="542" started-at="2020-01-24T13:18:01Z" finished-at="2020-01-24T13:18:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CheckWeatherMessageBody -->
+      </class> <!-- com.jbk.RestAPI.RestApiTestNG -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
